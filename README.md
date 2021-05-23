@@ -1,4 +1,4 @@
- ### Welcome to my little corner of the internet 😊 Most of my repos are private because of work, but I'll put personal projects and hackathon entries up here from time to time.
+ ### Welcome to my little corner of the internet 😊 Most of my repos are private because of work, but I'll put personal projects, school projects, and hackathon entries up here from time to time.
 
 <!--
 **rscobie/rscobie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
